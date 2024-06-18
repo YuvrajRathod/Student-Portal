@@ -1,0 +1,10 @@
+
+Run this command on Terminal to connect mongoDB
+sudo mongod --dbpath=/Users/yuvrajrathod/data/db
+
+First run this commond on terminal then start project.
+
+for backend - npm run both
+for frontend - npm start 
+
+password  - 123456
